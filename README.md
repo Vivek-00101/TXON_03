@@ -1,7 +1,7 @@
 # TXON
 
 Internship Week 3 task 
-# Todo Application
+# Todo List Application
 
 Creating a Todo list using HTML, CSS and JavaScript
 
